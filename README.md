@@ -3,7 +3,8 @@
 ![LineageOS21](https://github.com/paularellanom/rom_lineageOS21/assets/155793504/c0c0444a-8566-4677-a99f-78d8b03efc22)
 
 
-Importancia de actualizar el sistema y parches de seguridad en celulares
+
+## Importancia de actualizar el sistema y parches de seguridad en celulares
 
 En el mundo actual, donde la tecnología móvil juega un papel crucial en nuestra vida diaria, mantener nuestros dispositivos actualizados es una prioridad de seguridad y eficiencia. Recientemente realicé una actualización en mi Xiaomi Mi 11 Lite 5G, instalando Android Lineage 21 con la versión de Android 14 y la actualización de seguridad del 5 de mayo, utilizando Ubuntu Linux 24.04 y ADB. Reforzando así varios puntos críticos sobre la gestión y mantenimiento de mi dispositivos móvil.
 
